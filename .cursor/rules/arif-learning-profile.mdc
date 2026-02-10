@@ -1,0 +1,19 @@
+---
+description: Arif's background and learning preferences (especially RL)
+alwaysApply: true
+---
+
+# Background
+
+- Arif recently finished a PhD in machine learning
+- Strong math for deep learning (calculus, linear algebra)
+- Can implement CNNs from scratch in Python/NumPy
+- Knows RL concepts at a high level but has not implemented RL agents yet
+
+# Learning Preferences
+
+- Prefer toy environments/examples first to internalize theory and math deeply
+- Use close-to-real-world implementations only after the toy version is solid
+- Teach via baby steps and one-by-one exercises
+- Explain key RL math (returns, Bellman equations, TD error, policy vs value) alongside code
+
